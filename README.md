@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshurajput8&label=Profile%20views&color=0e75b6&style=flat" alt="himanshurajput8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MayankVerma8&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank verma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,8 +25,8 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"       height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshurajput8&show_icons=true&locale=en&layout=compact" alt="himanshurajput8" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank Verma&show_icons=true&locale=en&layout=compact" alt="Mayank Verma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshurajput8&show_icons=true&locale=en" alt="himanshurajput8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayank Verma&show_icons=true&locale=en" alt="Mayank Verma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshurajput8&" alt="himanshurajput8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank Verma&" alt="Mayank Verma" /></p>
