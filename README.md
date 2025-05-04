@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mayank Verma<br><br>🚀.<br>⚛️ Passionate about building scalable and high-performance React applications.<br>🛠️ Advocate for clean code, TypeScript, automated workflows, and accessibility (a11y).<br>🎯 Tech Stack: React, TypeScript, JavaScript, Node.js, CI/CD, Linters & Formatters.
+👋 Hi, I'm Mayank Verma<br>⚛️ Passionate about building scalable and high-performance React applications.<br>🛠️ Advocate for clean code, TypeScript, automated workflows, and accessibility (a11y).<br>🎯 Tech Stack: React, TypeScript, JavaScript, Node.js, CI/CD, Linters & Formatters.
 
 
 # 💻 Tech Stack:
