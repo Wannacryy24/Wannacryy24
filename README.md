@@ -65,6 +65,5 @@ A multi-user code editor designed to explore **synchronization, performance, and
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=wannacryy24&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacryy24&layout=compact&theme=dark)
 
 ---
