@@ -41,7 +41,7 @@ A system for **collecting, processing, and serving high-volume user events** for
 
 A multi-user code editor designed to explore **synchronization, performance, and shared state**.
 
-![Code Editor Architecture](./docs/mermaid-diagram-2026-01-05-164518.svg)
+![Code Editor Architecture](./assets/mermaid-diagram-2026-01-05-164518.svg)
 
 **Highlights:**
 - Room-based real-time collaboration
