@@ -25,7 +25,7 @@ I enjoy designing systems where **UI, data flow, performance, and backend archit
 
 A system for **collecting, processing, and serving high-volume user events** for real-time and analytical use cases.
 
-![UDE Architecture](./docs/ude-architecture.svg)
+![UDE Architecture](.UDE.svg)
 
 **Highlights:**
 - Event-driven ingestion pipeline
