@@ -1,123 +1,70 @@
-# 👋 Hi, I'm Mayank Verma
+# 👋 Hi, I’m Mayank Verma
 
-Frontend-focused engineer building **scalable, high-performance web applications**, now actively working across **frontend and backend boundaries**.
+Frontend-focused engineer building **scalable, high-performance web applications**, now working across **frontend and backend boundaries**.
 
-I enjoy designing systems where **UI, data flow, performance, and backend architecture** come together — especially in real-time and data-heavy applications.
+Currently working on a **User Data Engine (UDE)** for **real-time user event collection, processing, and access**.  
+Previously built a **real-time collaborative code editor** focused on **low-latency updates and shared state consistency**.
 
----
-
-## 🚀 What I Do Best
-
-- Build **production-grade React applications** with long-term maintainability
-- Design **scalable frontend architectures**, not just UI screens
-- Optimize rendering, bundles, and runtime performance
-- Work comfortably with backend APIs and data models
-- Write clean, predictable code that scales with teams and features
+I enjoy designing systems where **UI, data flow, performance, and backend architecture** come together.
 
 ---
 
-## 🧠 Engineering Mindset
+## 🧠 Engineering Focus
 
-- Clarity over cleverness
-- Measure before optimizing
-- Design for scale and change
-- Think in systems, not isolated features
-- Make trade-offs explicit and intentional
-
----
-
-## ⚡ Performance & Scalability
-
-- Prevent unnecessary re-renders and state over-coupling
-- Lazy loading, memoization, and code-splitting
-- Browser performance profiling (FPS, memory, long tasks)
-- Performance-aware component and state design
-- Frontend patterns that scale with data and users
+- Scalable React architecture & state management
+- Real-time and data-heavy systems
+- Performance-conscious UI design
+- Frontend–backend contract alignment
+- Clean, maintainable codebases
 
 ---
 
-## 🏗️ Architecture & Backend Exposure
+## 📌 Selected Projects & Architecture
 
-- Feature-based project structures
-- Clear separation of UI, state, services, and APIs
-- REST API design and consumption
-- Working with **Node.js** services
-- Using **Redis** for caching and fast data access
-- Using **ClickHouse** for analytical and event-driven data
-- Designing frontend systems aligned with backend contracts
+### 🧩 User Data Engine (UDE)
 
----
+A system for **collecting, processing, and serving high-volume user events** for real-time and analytical use cases.
 
-## 🔁 Real-Time & Data-Heavy Systems
+![UDE Architecture](./docs/ude-architecture.svg)
 
-- Event-based data flows
-- Real-time UI updates and synchronization
-- Handling high-frequency events in frontend
-- Performance-conscious rendering of large datasets
-- Coordinating frontend state with backend events
+**Highlights:**
+- Event-driven ingestion pipeline
+- Redis for fast-access & transient state
+- ClickHouse for analytical workloads
+- Frontend systems consuming real-time + aggregated data
+
+→ Detailed design, trade-offs, and scaling notes in the project README.
 
 ---
 
-## ♿ Accessibility (a11y)
+### 🧑‍💻 Real-Time Collaborative Code Editor
 
-- Semantic HTML & ARIA best practices
-- Keyboard navigation & focus management
-- Screen reader-friendly components
-- Accessibility-aware UI systems
+A multi-user code editor designed to explore **synchronization, performance, and shared state**.
 
----
+![Code Editor Architecture](./docs/mermaid-diagram-2026-01-05-164518.svg)
 
-## 🔄 Automation & Developer Experience
+**Highlights:**
+- Room-based real-time collaboration
+- Event-driven synchronization
+- Performance-aware React rendering
+- Clear separation of local vs remote state
 
-- ESLint, Prettier & shared coding standards
-- Git hooks for consistent quality
-- CI pipelines for validation and builds
-- Improving developer feedback loops
-
----
-
-## 🧪 Testing Approach
-
-- Write tests where they add confidence
-- Focus on behavior, not implementation
-- Prefer integration-level coverage for UI and APIs
-
----
-
-## 📦 Currently Exploring
-
-- Deeper backend architecture patterns
-- API design and data consistency
-- Real-time collaboration systems
-- Frontend performance observability
-- Better state synchronization strategies
-
----
-
-## 🤝 Open To
-
-- Frontend or frontend-heavy full-stack roles
-- Performance & architecture-focused projects
-- Systems with real-world scale and constraints
-- Collaboration and open-source contributions
+→ Architecture decisions and challenges explained in the project README.
 
 ---
 
 ## 💻 Core Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript  
+**Frontend:** React, Next.js, TypeScript  
 **Backend:** Node.js, REST APIs  
-**State:** Context API, Redux Toolkit  
 **Data:** Redis, ClickHouse  
-**Tooling:** Vite, Webpack, Storybook  
-**Automation:** GitHub Actions, Jenkins  
-**Quality:** ESLint, Prettier, Git hooks
+**Tooling:** Vite, Webpack, GitHub Actions  
 
 ---
 
 ## 📊 GitHub Activity
 
-![](https://nirzak-streak-stats.vercel.app/?user=wannacryy24&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacryy24&layout=compact&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=wannacryy24&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wannacryy24&layout=compact&theme=dark)
 
 ---
